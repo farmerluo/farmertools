@@ -1,5 +1,6 @@
 # farmertools
 一些脚本，工具，软件等备份
+<pre>
 baidu.php 	                        新版百度空间转WordPress脚本
 eaccelerator-0.9.5.3.tar.bz2 	      eaccelerator-0.9.5.3.tar.bz2
 check_redis2.pl 	                  check_redis:redis check script of nagios plugin 
@@ -20,3 +21,4 @@ mongotest.rar 	                    java source code for mongodb and mysql test 0
 snmptools2.zip                  	   snmp tools 2 
 cacti.rar 	                        Cacti for windows,sql server 2005,squid 
 nginx 	                            nginx init script 
+</pre>
